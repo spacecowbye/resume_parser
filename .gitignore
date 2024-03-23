@@ -1,0 +1,5 @@
+*.pickle
+*.h5
+*.db
+credentials.json
+token.json
