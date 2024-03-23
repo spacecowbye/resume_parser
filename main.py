@@ -45,7 +45,7 @@ def download_file(service, file_id, destination):
             status, done = downloader.next_chunk()
 
 # Initialize OpenAI client
-#api_key = ""
+api_key = ""
 openai_client = OpenAI(api_key=api_key)
 
 # Initialize the parser
@@ -70,6 +70,9 @@ def process_resumes(folder_path):
             resume_text = '\n'.join(lines)
             segments = parser.get_resume_segments()
 
+            file_name = "output.json"
+            parser.save_as_json(file_name)
+ 
             # Load and modify the output JSON for better efficiency
             with open("output.json", "r") as json_file:
                 resume_data = json.load(json_file)

@@ -1,41 +1,84 @@
 {
     "Job History": [
         {
-            "Job Title": "AI/ML Intern",
-            "Company": "PPG Industries",
-            "Start Date": "May2022-August2022",
+            "Job Title": "Financial Systems and Data Intern",
+            "Company": "Clark Associates Inc",
+            "Start Date": "May2022-Aug2022",
             "End Date": ""
         },
         {
-            "Job Title": "Data Engineer",
-            "Company": "Modak Analytics LLP",
-            "Start Date": "09-2019",
+            "Job Title": "Senior Analyst",
+            "Company": "Dacapo Brokerage India Private Limited",
+            "Start Date": "08-2020",
             "End Date": "07-2021"
         },
         {
-            "Job Title": "Fundraising Coordinator",
-            "Company": "Live Life Love Life",
-            "Start Date": "10-2017",
+            "Job Title": "Senior Associate",
+            "Company": "CRISIL Limited",
+            "Start Date": "10-2019",
+            "End Date": "07-2020"
+        },
+        {
+            "Job Title": "Management of CRISIL’s Business Development Operations Team",
+            "Company": "CRISIL",
+            "Start Date": "",
+            "End Date": ""
+        },
+        {
+            "Job Title": "Associate Software Engineer",
+            "Company": "Data Science & Quants Lab",
+            "Start Date": "07-2018",
             "End Date": "10-2019"
+        },
+        {
+            "Job Title": "Treasurer of Computer Society of India-VESIT Student Chapter",
+            "Company": "Computer Society of India",
+            "Start Date": "03-2016",
+            "End Date": "03-2017"
         }
     ],
     "Education": [
         {
-            "School Name": "Carnegie Mellon University",
-            "Field of Study": "Master of Information Systems Management",
-            "Qualification": "Master of Information Systems Management"
+            "School Name": "New York University",
+            "Field of Study": "Mathematical Sciences",
+            "Qualification": "3.6/4"
         },
         {
-            "School Name": "Maharashtra Institute of Technology",
-            "Field of Study": "Electronics and Telecommunication Engineering",
-            "Qualification": "Electronics and Telecommunication Engineering"
+            "School Name": "Courant Institute of Mathematical Sciences",
+            "Field of Study": "Stern School of Business",
+            "Qualification": "Master of Science in Information Systems"
+        },
+        {
+            "School Name": "Stern School of Business",
+            "Field of Study": "Information Systems",
+            "Qualification": "New York University"
         }
     ],
-    "Skills": [],
-    "Name": "SUMEDH SHAH",
+    "Skills": [
+        "Databases",
+        "Tools",
+        "MySQL",
+        "MS Access",
+        "PostgreSQL",
+        "SQL",
+        "MongoDB",
+        "Data Analysis",
+        "Visualization Tools",
+        "Python",
+        "SQL",
+        "MS Excel",
+        "Power BI",
+        "Big Data Technologies",
+        "AWS",
+        "Redshift",
+        "DynamoDB Table",
+        "Storage",
+        "Virtual Machines"
+    ],
+    "Name": "Ashwini Kalidas Vedula",
     "Contact Info": {
-        "Email": "sumedhns@andrew.cmu.edu",
-        "phone1": "(412) 954-8546",
+        "Email": "ashwini.vedula@nyu.edu",
+        "phone1": "201)-616-1347",
         "phone2": "",
         "address": ""
     }

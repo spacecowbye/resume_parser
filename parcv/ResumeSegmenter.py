@@ -62,6 +62,7 @@ class ResumeSegmenter:
     )
 
     skills_header = (
+        "SKILLS"
         'credentials',
         'qualifications',
         'areas of experience',
