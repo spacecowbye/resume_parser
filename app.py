@@ -8,7 +8,7 @@ parser = parcv.Parser(pickle=True, load_pickled=True)
 
 # GIVE ABSOLUTE PATH TO THE RESUME HERE
 ########################
-resume_path = 'resumes_pdf/ashwini resume.pdf'
+resume_path = '/Users/vatsal/Desktop/orangewood/resume_parser/resume_pratyush.pdf'
 ########################
 
 json_output = parser.parse(resume_path)

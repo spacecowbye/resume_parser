@@ -1,84 +1,48 @@
 {
     "Job History": [
         {
-            "Job Title": "Financial Systems and Data Intern",
-            "Company": "Clark Associates Inc",
-            "Start Date": "May2022-Aug2022",
+            "Job Title": "JuniorSoftwareEngineer-Platform",
+            "Company": "OpenBBFinance",
+            "Start Date": "July2023March2024",
             "End Date": ""
         },
         {
-            "Job Title": "Senior Analyst",
-            "Company": "Dacapo Brokerage India Private Limited",
-            "Start Date": "08-2020",
-            "End Date": "07-2021"
-        },
-        {
-            "Job Title": "Senior Associate",
-            "Company": "CRISIL Limited",
-            "Start Date": "10-2019",
-            "End Date": "07-2020"
-        },
-        {
-            "Job Title": "Management of CRISIL’s Business Development Operations Team",
-            "Company": "CRISIL",
-            "Start Date": "",
+            "Job Title": "Miko",
+            "Company": "Miko",
+            "Start Date": "May2023August2023",
             "End Date": ""
         },
         {
-            "Job Title": "Associate Software Engineer",
-            "Company": "Data Science & Quants Lab",
-            "Start Date": "07-2018",
-            "End Date": "10-2019"
+            "Job Title": "SoftwareDeveloperIntern",
+            "Company": "RosenblattSecurities",
+            "Start Date": "March2022April2022",
+            "End Date": ""
         },
         {
-            "Job Title": "Treasurer of Computer Society of India-VESIT Student Chapter",
-            "Company": "Computer Society of India",
-            "Start Date": "03-2016",
-            "End Date": "03-2017"
+            "Job Title": "AgileSocialLearning360,Remote|SoftwareDeveloperIntern",
+            "Company": "AgileSocialLearning360",
+            "Start Date": "January2021June2021",
+            "End Date": ""
+        },
+        {
+            "Job Title": "ResearchAssistant",
+            "Company": "LovelyProfessionalUniversity",
+            "Start Date": "02-2019",
+            "End Date": "12-2020"
         }
     ],
     "Education": [
         {
-            "School Name": "New York University",
-            "Field of Study": "Mathematical Sciences",
-            "Qualification": "3.6/4"
-        },
-        {
-            "School Name": "Courant Institute of Mathematical Sciences",
-            "Field of Study": "Stern School of Business",
-            "Qualification": "Master of Science in Information Systems"
-        },
-        {
-            "School Name": "Stern School of Business",
-            "Field of Study": "Information Systems",
-            "Qualification": "New York University"
+            "School Name": "NewYorkUniversity",
+            "Field of Study": "ComputerEngineering",
+            "Qualification": "M.S.ComputerEngineering"
         }
     ],
-    "Skills": [
-        "Databases",
-        "Tools",
-        "MySQL",
-        "MS Access",
-        "PostgreSQL",
-        "SQL",
-        "MongoDB",
-        "Data Analysis",
-        "Visualization Tools",
-        "Python",
-        "SQL",
-        "MS Excel",
-        "Power BI",
-        "Big Data Technologies",
-        "AWS",
-        "Redshift",
-        "DynamoDB Table",
-        "Storage",
-        "Virtual Machines"
-    ],
-    "Name": "Ashwini Kalidas Vedula",
+    "Skills": [],
+    "Name": "Pratyush Shukla",
     "Contact Info": {
-        "Email": "ashwini.vedula@nyu.edu",
-        "phone1": "201)-616-1347",
+        "Email": "pratyush.shukla@outlook.in",
+        "phone1": "+91-8853934890",
         "phone2": "",
         "address": ""
     }
