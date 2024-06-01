@@ -87,9 +87,9 @@ Make sure you have the necessary Python packages installed:
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client parcv openai
 
 ```
-## Start the Streamlit ap
+## Start the main pythons script 
 ```
-streamlit run main.py
+python3  main.py
 ```
 
 
