@@ -1,4 +1,4 @@
-# Resunme Parser : Fast Paced Recruiting
+# Resume Parser : Fast Paced Recruiting
 
 ## Set-Up :
 [Github Repository](https://github.com/spacecowbye/resume_parser) for the entire codebase till my part, uploading resumes via a google drive folder.
