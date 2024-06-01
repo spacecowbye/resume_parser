@@ -84,10 +84,10 @@ This document describes how to set up and run a Python script to download resume
 Make sure you have the necessary Python packages installed:
 
 ```sh
-pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client parcv openai
+pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openai
 
 ```
-## Start the main pythons script 
+## Start the main python script 
 ```
 python3  main.py
 ```
