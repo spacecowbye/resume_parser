@@ -87,10 +87,14 @@ Make sure you have the necessary Python packages installed:
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openai
 
 ```
-## Start the main python script 
+## Run the following  python scripts  
 ```
+python3 db.py
 python3  main.py
 ```
+## Paste the link in the terminal
+
+## Run extract_from_db.py to get the extracted information from the databse
 
 
 
