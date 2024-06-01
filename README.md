@@ -44,9 +44,7 @@ pip install -r requirements.txt
 ```
 python3 app.py
 ```
-
-## Now for the streamlit app taking the google drive folder containing the resumes in pdf format as input and putting them all in the database
-
+# Once the app has run, this means your model has been setup and can execute on a single resume, now to parse all resumes from a google drive folder you can follow the following steps.
 
 # Resume Processing with Google Drive and OpenAI
 
