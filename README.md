@@ -88,7 +88,7 @@ pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-pyt
 ## Run the following  python scripts  
 ```
 python3 db.py
-python3  main.py
+python3  main.py (You will need an openai api key for this)
 ```
 ## Paste the link in the terminal
 
